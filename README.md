@@ -6,3 +6,5 @@ The project involves the creation of two database tables: "MENU" and "CUSTOMERS.
 The program allows users to input food items from the menu along with the desired number of servings. It then calculates the total amount for the order and displays a summary of the order details. The system ensures the accurate selection of food items by utilizing binary search algorithms to match the entered food ID with the available options in the menu.
 
 By connecting Python with MySQL, this project streamlines the ordering process, reduces errors, and enhances efficiency in cafes or small restaurants.
+
+![image](https://github.com/aiswaryanr/Cafe_Project/assets/133225093/2223c00c-5c19-4ac3-a31e-0fa229b2958c)
